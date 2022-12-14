@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://praveennegi420.github.io/csb-chzq3v/static/css/main.5e3f1794.chunk.css",
+    "main.js": "https://praveennegi420.github.io/csb-chzq3v/static/js/main.86f76b59.chunk.js",
+    "main.js.map": "https://praveennegi420.github.io/csb-chzq3v/static/js/main.86f76b59.chunk.js.map",
+    "runtime-main.js": "https://praveennegi420.github.io/csb-chzq3v/static/js/runtime-main.0f1e71a9.js",
+    "runtime-main.js.map": "https://praveennegi420.github.io/csb-chzq3v/static/js/runtime-main.0f1e71a9.js.map",
+    "static/js/2.77a658fc.chunk.js": "https://praveennegi420.github.io/csb-chzq3v/static/js/2.77a658fc.chunk.js",
+    "static/js/2.77a658fc.chunk.js.map": "https://praveennegi420.github.io/csb-chzq3v/static/js/2.77a658fc.chunk.js.map",
+    "index.html": "https://praveennegi420.github.io/csb-chzq3v/index.html",
+    "static/css/main.5e3f1794.chunk.css.map": "https://praveennegi420.github.io/csb-chzq3v/static/css/main.5e3f1794.chunk.css.map",
+    "static/js/2.77a658fc.chunk.js.LICENSE.txt": "https://praveennegi420.github.io/csb-chzq3v/static/js/2.77a658fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1e71a9.js",
+    "static/js/2.77a658fc.chunk.js",
+    "static/css/main.5e3f1794.chunk.css",
+    "static/js/main.86f76b59.chunk.js"
+  ]
+}
